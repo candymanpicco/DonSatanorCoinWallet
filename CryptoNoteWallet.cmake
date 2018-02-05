@@ -1,4 +1,4 @@
 
-set(donsatanorcoin "")
-set(DonSatanorCoin "")
-set(DSC333 "")
+set(perfectmoneycoin "")
+set(PerfectMoneyCoin "")
+set(PMC1 "")
